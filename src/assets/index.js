@@ -23,7 +23,7 @@ import C from "./tech/C.svg";
 
 
 
-import Techno from "./company/Techno.png";
+import Techno from "../company/Techno.png";
 import Shaarp from "./company/Shaarp.png";
 
 import Resume from "./Resume.png";
