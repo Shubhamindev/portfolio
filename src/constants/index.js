@@ -190,7 +190,7 @@ const projects = [
       },
     ],
     image: Resume,
-    source_code_link: "https://github.com/eklotaravan/resume_maker_free",
+    source_code_link: "https://github.com/Shubhamindev/resume_maker_free",
   },
   {
     name: "Deewan Cars",
@@ -232,7 +232,7 @@ const projects = [
       },
     ],
     image: imagerecognition,
-    source_code_link: "https://github.com/eklotaravan/imagerecognitionusingdeeplearning",
+    source_code_link: "https://github.com/Shubhamindev/imagerecognitionusingdeeplearning",
   },
 ];
 
